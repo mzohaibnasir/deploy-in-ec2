@@ -2,4 +2,6 @@
 
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
-# Laerning to deploy ML project on EC2
+# Learning to deploy ML project on EC2
+
+up
